@@ -8,7 +8,7 @@
 }
 
 .home,
-.reports,
+.annualreport,
 .products {
   display: flex;
   height: 90vh;
